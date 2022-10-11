@@ -1,0 +1,6 @@
+folium==0.13.0
+geopandas==0.11.1
+numpy==1.23.3
+pandas==1.5.0
+plotly==5.10.0
+streamlit==1.13.0
