@@ -2,3 +2,5 @@ venv
 seatle_houses_app.py
 Fiona-1.8.21-cp39-cp39-win_amd64.whl
 GDAL-3.4.3-cp39-cp39-win_amd64.whl
+Procfile
+setup.sh
