@@ -97,4 +97,4 @@ Como próximo passo, atuaria na melhoria do modelo de precificação dos imóvei
 
 ## App
 
-* https://fabriciobucher-seatle-houses-dashboard-0k90x0.streamlitapp.com/
+* https://fabriciobucher-seatle-houses-project.streamlit.app/
