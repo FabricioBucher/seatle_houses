@@ -27,7 +27,7 @@ def introduction(data):
     st.markdown("<h1 style='text-align: center; color: darkgreen;'>Projeto - Seatle Houses</h1>",
                 unsafe_allow_html=True)
     c1, c2, c3 = st.columns(3)
-    c2.image('images\seatle.jpg')
+    c2.image('seatle.jpg')
 
     # descrição do projeto
     st.write('')
