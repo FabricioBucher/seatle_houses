@@ -7,7 +7,7 @@ Portanto, esse projeto tem o objetivo de gerar insights através da análise e m
 
 ## Produto Final
 
-Com o objetivo de encontrar quais imóveis a House Rocket deveria comprar e por qual valor deveriamos comprar, uma vez comprados, em qual momento deveria vendê-los e por qual preço, serão entregues os seguintes produtos:
+Com o objetivo de encontrar quais imóveis a Seatle Houses deveria comprar e por qual valor deveriamos comprar, uma vez comprados, em qual momento deveria vendê-los e por qual preço, serão entregues os seguintes produtos:
 
 * Relatório com as sugestões de compra do imóvel com um valor recomendado;
 
